@@ -14,6 +14,7 @@
   "dependencies": {
     "@fontsource/lato": "^4.2.2",
     "@fontsource/montserrat": "^4.2.2",
+    "@hotwired/turbo": "^7.0.0-beta.4",
     "parcel": "1.12.3",
     "posthtml": "^0.15.1",
     "posthtml-include": "^1.6.2"
