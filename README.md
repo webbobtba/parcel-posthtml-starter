@@ -1,6 +1,6 @@
 # parcel-posthtml-starter
 
-<img src="/src/img/johnny.jpg" width="80" height="80" style="display: block; border-radius: 50%;">
+<img src="/src/img/johnny.jpg" width="80" height="80">
 
 ## Install
 
