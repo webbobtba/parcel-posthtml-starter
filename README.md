@@ -22,3 +22,9 @@ npm install
 ```js
 npm start
 ```
+
+## Ready to publish?
+```js
+npm run build
+```
+Your site will be built for production.
